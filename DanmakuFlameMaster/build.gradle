@@ -19,8 +19,8 @@ apply plugin: 'com.android.library'
 def SourcePath = 'src/main/'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "26.0.2"
+    compileSdkVersion 28
+    buildToolsVersion "28.0.2"
 
     defaultConfig {
         minSdkVersion 9
